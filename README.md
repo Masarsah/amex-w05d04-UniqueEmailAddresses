@@ -24,7 +24,7 @@ Example 1:
 ```   
 Input: ["trevor.email+preston@generalassemb.ly","trevor.e.mail+pre.ston@generalassemb.ly","jackie+casper@general.assemb.ly"]
 Output: 2
-Explanation: "trevoremail@generalassemb.ly" and "jackiecasper@general.assemb.ly" actually receive mails
+Explanation: "trevoremail@generalassemb.ly" and "jackie@general.assemb.ly" actually receive mails
 ```
 
 Note:
